@@ -1,6 +1,6 @@
 # Projets RISC-V / RARS
 Travaux pratiques réalisés dans le cadre d'un cours.\
-[https://github.com/TheThirdOne/rars](RARS - RISC-V Assembler and Runtime Simulator)
+[RARS - RISC-V Assembler and Runtime Simulator](https://github.com/TheThirdOne/rars)
 
 ## romain.s
 L’objectif de ce TP était de réaliser en RISC-V un convertisseur entre les nombres romains et le décimal.
