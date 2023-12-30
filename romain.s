@@ -1,5 +1,4 @@
-# TP1 -  Convertisseur entre les nombres romains et le décimal.
-# Jessica Majeur, MAJJ 2651 9105 (groupe 20)
+# Convertisseur entre les nombres romains et le décimal.
 #
 # Il n’y a pas de restrictions sur l’ordre ou le nombre des chiffres (normalement, les lettres ou les groupes 
 # devraient apparaître dans l’ordre décroissant et la forme la plus courte devrait être être utilisée).
