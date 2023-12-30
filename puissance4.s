@@ -1,5 +1,4 @@
-# TP2 - Jeu de puissance 4
-# Jessica Majeur MAJJ26519105 (groupe 20)
+# Jeu de puissance 4
 #
 # Implémentation du jeu Puissance 4 permettant à deux joueurs humains de s’affronter 
 # dans un duel cognitif et psychologique.
