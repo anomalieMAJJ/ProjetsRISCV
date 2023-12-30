@@ -1,6 +1,3 @@
-# TP3 - Cordes
-# Jessica Majeur MAJJ26519105 (groupe 20)
-#
 # Implémentation d'une structure de donnée « corde » pour manipuler des chaines de caractères.
 
 .data
