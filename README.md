@@ -1,7 +1,2 @@
-# Projet RISC-V / RARS
-
-## Convertisseur entre les nombres romains et le décimal
-
-## Connect Four
-
-## toString
+# Projets RISC-V / RARS
+Travaux pratiques réalisés dans le cadre d'un cours.
