@@ -9,4 +9,4 @@ L’objectif de ce TP était de réaliser en RISC-V un [convertisseur entre les 
 L’objectif de ce TP était d’implémenter le [jeu puissance 4](https://github.com/anomalieMAJJ/ProjetsRISCV/blob/main/puissance4.s) (connect four en version originale) pour que deux joueurs humains puissent s’affronter.
 
 ## rope.s
-L’objectif de ce TP était d’implémenter une [structure de donnée « corde »](https://github.com/anomalieMAJJ/ProjetsRISCV/blob/main/rope.s.s) pour manipuler des chaines de caractères.
+L’objectif de ce TP était d’implémenter une [structure de donnée « corde »](https://github.com/anomalieMAJJ/ProjetsRISCV/blob/main/rope.s) pour manipuler des chaines de caractères.
